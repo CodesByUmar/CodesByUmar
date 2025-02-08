@@ -15,16 +15,16 @@
 
 
 ## 📊 GitHub Statistikam
-![CodesByUmar Statists](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![CodesByUmar Statists](https://github-readme-stats.vercel.app/api?CodesByUmar&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?CodesByUmar&layout=compact&theme=dark)
 
 
 ## 🔥 GitHub Faoliyat Grafikasi
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?CodesByUmar&theme=react-dark)
 
 
 ## 🏆 GitHub Sovrinlari
-![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?CodesByUmar&theme=onedark)
 
 
 
