@@ -1,5 +1,5 @@
-👋 Hi, I’m @CodesByUmar <br>
-😄 Pronouns: He/Him <br>
+👋 Hi, I’m @CodesByUmar. <br>
+😄 Pronouns: He/Him. <br>
 ⚡ Fun fact: I can type at 115 WPM on the monkeytype platform. <br> 
 
 
