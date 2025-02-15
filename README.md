@@ -45,7 +45,7 @@ Blazor va .NET Web API asosida ishlab chiqilgan e-commerce platforma.
 - 📧 Email: muhammadumarasatillayev@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammadumar-asatillayev/)
 - 🚀 [Upwork](https://www.upwork.com/freelancers/~014b842cbbec53146a?mp_source=share)
-- 📱 Telegram: @asatilayev
+- 📱 [Telegram](https://t.me/asatilayev )
 
 
 
