@@ -2,6 +2,7 @@
 😄 Pronouns: He/Him. <br>
 ⚡ Fun fact: I can type at 115 WPM on the monkeytype platform. <br> 
 
+![snake gif](https://github.com/CodesByUmar/CodesByUmar/blob/output/github-contribution-grid-snake.svg)
 
 
 
