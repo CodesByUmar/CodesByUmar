@@ -50,3 +50,91 @@ Blazor va .NET Web API asosida ishlab chiqilgan e-commerce platforma.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 💻 Muhammad Umar | Full Stack Developer
+
+[![GitHub followers](https://img.shields.io/github/followers/CodesByUmar?style=social)](https://github.com/CodesByUmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadumar-asatillayev/)
+
+## 🚀 About Me
+Hello! I'm **Muhammad Umar**, a passionate Full Stack Developer specializing in **.NET, Blazor, Web API, and MySQL**. I'm always eager to learn new technologies and contribute to open-source projects.
+
+🔹 **Current Focus:** Developing an online clothing store with **.NET 9 Web API** and **Blazor Frontend**  
+🔹 **Learning:** Advancing my skills in **C#**, **Product Management**, and **Project Management**  
+🔹 **Interests:** Clean UI/UX, Software Architecture, and Startups
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesByUmar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByUmar&layout=compact&theme=radical)
+
+---
+
+## 📆 Daily GitHub Plan
+✅ **1+ commit** – At least one commit per day  
+✅ **1+ issue** – Create or resolve one issue daily  
+✅ **1+ pull request** – Open or review a PR  
+✅ **Repository maintenance** – Clean up and structure projects  
+✅ **New technology learning** – Explore new frameworks or libraries
+
+---
+
+## 📌 Pinned Projects
+[![Books_App](https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Books_App)](https://github.com/CodesByUmar/Books_App)
+[![WebApplication1](https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=WebApplication1)](https://github.com/CodesByUmar/WebApplication1)
+
+---
+
+## 🌎 Connect with Me
+📩 **Email:** muhammadumarasatillayev@gmail.com  
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammadumar-asatillayev/)
+
+
+
