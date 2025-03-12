@@ -1,4 +1,4 @@
-# 💻 Muhammad Umar | Full Stack Developer
+# 💻 Muhammad Umar | Full Stack Developer 
 
 [![GitHub followers](https://img.shields.io/github/followers/CodesByUmar?style=social)](https://github.com/CodesByUmar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadumar-asatillayev/)
