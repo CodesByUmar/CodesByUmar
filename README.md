@@ -10,6 +10,13 @@ Hello! I'm **Muhammad Umar**, a passionate Full Stack Developer specializing in 
 🔹 **Learning:** Advancing my skills in **C#**, **Product Management**, and **Project Management**  
 🔹 **Interests:** Clean UI/UX, Software Architecture, and Startups
 
+
+## Ishlatish tartibi
+
+1. Repository'ni klonlash:
+   ```sh
+   git clone https://github.com/username/repository.git
+
 ---
  
 ### 🛠 Texnologiyalar 
