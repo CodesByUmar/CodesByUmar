@@ -17,6 +17,20 @@ Hello! I'm **Muhammad Umar**, a passionate Full Stack Developer specializing in 
    ```sh
    git clone https://github.com/username/repository.git
 
+
+## Motivatsiya 😆
+
+  /\_/\  
+ ( o.o )  Kod yozishda sabr qil!  
+ > ^ <
+
+
+
+## Ishlash jarayoni
+Loyihamiz qanday ishlashini ko‘rish uchun GIF:
+![Funny GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+
 ---
  
 ### 🛠 Texnologiyalar 
