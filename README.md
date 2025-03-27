@@ -10,6 +10,8 @@ Hello! I'm **Muhammad Umar**, a passionate Full Stack Developer specializing in 
 🔹 **Learning:** Advancing my skills in **C#**, **Product Management**, and **Project Management**  
 🔹 **Interests:** Clean UI/UX, Software Architecture, and Startups
 
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/CodesByUmar.svg)](https://user-badge.committers.top/uzbekistan/CodesByUmar)
+
 
 ## Ishlatish tartibi
 
