@@ -36,11 +36,13 @@ Hello! I'm **Muhammad Umar**, a passionate Full Stack Developer specializing in 
 [![Books_App](https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Books_App)](https://github.com/CodesByUmar/Books_App)
 [![WebApplication1](https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=WebApplication1)](https://github.com/CodesByUmar/WebApplication1)
 
+
 ---
 
 
 ## 🔥 GitHub Faoliyat Grafikasi
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodesByUmar&theme=react-dark)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCHIN000&langs_count=10&theme=gruvbox)](https://github.com/ErickCHIN000)
 
 
 ## 🏆 GitHub Sovrinlari
