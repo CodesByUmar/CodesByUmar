@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm MuhammadUmar 👋</h1>
-<h3 align="center">🚀 Senior Software Developer & Project Manager</h3>
+<h3 align="center">🚀 Software Developer & Product Manager</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PM+%7C+.NET+Enthusiast;Always+Learning+New+Tech" />
@@ -111,10 +111,16 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 
 <p align="center">
   <a href="https://github.com/CodesByUmar/Books_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Books_App&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Online_Shop_App&theme=github_dark"/>
   </a>
   <a href="https://github.com/CodesByUmar/WebApplication1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=WebApplication1&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Free_Coin_Wallet&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/CodesByUmar/WebApplication1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Uber_Password&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/CodesByUmar/WebApplication1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=PHP_Yandex_Taxi_API_Master&theme=github_dark"/>
   </a>
 </p>
 
@@ -133,21 +139,6 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodesByUmar&theme=github" />
 </p>
-
----
-
-## 🛒 Kingsman Kiyim Do‘koni
-Blazor va .NET Web API asosida ishlab chiqilgan e-commerce platforma.
-
-### 🛠 Texnologiyalar
-- Backend: .NET 9, Web API
-- Frontend: Blazor, TailwindCSS
-- Database: MySQL
-
-### 🚀 Funksiyalar
-✅ Mahsulotlarni qo‘shish, o‘chirish va tahrirlash  
-✅ Admin panel orqali boshqaruv  
-✅ Telegram bot integratsiyasi
 
 ---
 ### 📫 Connect with me:
