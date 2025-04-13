@@ -145,8 +145,40 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/asatilayev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadumar-asatillayev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:muhammadumarasatillayev@gmail.com)
+
 ---
 
 ### 🤝 Let's Collaborate!
 
 If you're interested in building impactful projects or just want to connect — I'm always open for collaboration! Let's innovate together 👨‍💻✨
+
+---
+
+## 📍 Now
+- 🔨 Building: [Kingsman Clothing Store](https://github.com/CodesByUmar/Kingsman-Store)
+- 📘 Reading: *Clean Architecture* by Robert C. Martin
+- 🎯 Focus: Blazor + Product Management
+
+---
+
+<details>
+  <summary>Want to know a secret? 🤫</summary>
+  I once built a full-stack app using only one hand while drinking tea. ☕💻
+</details>
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/muhammadumar-asatillayev/" alt="QR Code for LinkedIn">
+</p>
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
+  — Cory House
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodesByUmar&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  © 2025 MuhammadUmar — Crafted with ❤️ from Uzbekistan 🇺🇿
+</p>
