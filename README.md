@@ -6,14 +6,29 @@
 </p>
 
 <p align="center">
+  <!-- GitHub Followers -->
   <a href="https://github.com/CodesByUmar">
-    <img src="https://img.shields.io/github/followers/CodesByUmar?style=social" />
+    <img src="https://img.shields.io/github/followers/CodesByUmar?style=social" alt="GitHub Followers" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/muhammadumar-asatillayev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
+
+  <!-- Committers Top -->
   <a href="https://user-badge.committers.top/uzbekistan/CodesByUmar">
-    <img src="https://user-badge.committers.top/uzbekistan/CodesByUmar.svg" />
+    <img src="https://user-badge.committers.top/uzbekistan/CodesByUmar.svg" alt="Committers Top" />
+  </a>
+
+  <!-- Code Time -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue?logo=visualstudiocode&logoColor=white" alt="Code Time" />
+  </a>
+
+  <!-- Profile Views -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Profile%20Views-1%2C902%2C224-blue" alt="Profile Views" />
   </a>
 </p>
 
