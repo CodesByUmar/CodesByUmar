@@ -188,7 +188,7 @@ If you're interested in building impactful projects or just want to connect — 
 - 🎯 Focus: Blazor + Product Management
 
 ---
-
+ 
 <details>
   <summary>Want to know a secret? 🤫</summary>
   I once built a full-stack app using only one hand while drinking tea. ☕💻
