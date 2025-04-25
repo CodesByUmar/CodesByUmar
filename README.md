@@ -17,9 +17,10 @@
   </a>
 
   <!-- Committers Top -->
-  <a href="https://user-badge.committers.top/uzbekistan/CodesByUmar">
-    <img src="https://user-badge.committers.top/uzbekistan/CodesByUmar.svg" alt="Committers Top" />
-  </a>
+  <a href="https://user-badge.committers.top/uzbekistan/omon212">
+  <img src="https://user-badge.committers.top/uzbekistan/omon212.svg" alt="Committers Top" />
+</a>
+
 
   <!-- Code Time -->
   <a href="#">
