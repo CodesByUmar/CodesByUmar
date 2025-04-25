@@ -197,9 +197,6 @@ If you're interested in building impactful projects or just want to connect — 
   — Cory House
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodesByUmar&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   © 2025 MuhammadUmar — Crafted with ❤️ from Uzbekistan 🇺🇿
