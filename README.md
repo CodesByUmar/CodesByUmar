@@ -147,16 +147,16 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 ### 📌 Highlighted Projects
 
 <p align="center">
-  <a href="https://github.com/CodesByUmar/Books_App">
+  <a href="https://github.com/CodesByUmar/Online_Shop_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Online_Shop_App&theme=github_dark"/>
   </a>
-  <a href="https://github.com/CodesByUmar/WebApplication1">
+  <a href="https://github.com/CodesByUmar/Free_Coin_Wallet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Free_Coin_Wallet&theme=github_dark"/>
   </a>
-  <a href="https://github.com/CodesByUmar/WebApplication1">
+  <a href="https://github.com/CodesByUmar/Uber_Password">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=Uber_Password&theme=github_dark"/>
   </a>
-  <a href="https://github.com/CodesByUmar/WebApplication1">
+  <a href="https://github.com/CodesByUmar/PHP_Yandex_Taxi_API_Master">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByUmar&repo=PHP_Yandex_Taxi_API_Master&theme=github_dark"/>
   </a>
 </p>
@@ -165,9 +165,7 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodesByUmar&theme=github" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=menacedjava&theme=dracula&margin-w=10&no-frame=true)
 
 ---
 
