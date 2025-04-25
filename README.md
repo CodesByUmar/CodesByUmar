@@ -160,14 +160,6 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 
 ---
 
-### 🔥 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodesByUmar&theme=github-compact" />
-</p>
-
----
-
 ### 🏆 GitHub Achievements
 
 <p align="center">
