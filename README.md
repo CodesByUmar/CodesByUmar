@@ -32,7 +32,10 @@
   </a>
 </p>
 
----
+<p align="center">
+ <img width="1000" src=".github/.workflows/snake.svg" alt="snake"/>
+</p>
+
 
 ### 🚀 About Me
 
