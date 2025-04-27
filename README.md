@@ -17,7 +17,7 @@
   </a>
 
   <!-- Committers Top -->
-  <a href="https://user-badge.committers.top/uzbekistan/omon212">
+  <a href="https://user-badge.committers.top/uzbekistan/CodesByUmar">
   <img src="https://user-badge.committers.top/uzbekistan/omon212.svg" alt="Committers Top" />
 </a>
 
