@@ -168,7 +168,7 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CodesByUmar&theme=dracula&margin-w=10&no-frame=true)
 
----
+--- 
 
 ### 🤝 Let's Collaborate!
 
