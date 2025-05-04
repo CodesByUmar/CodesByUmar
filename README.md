@@ -35,7 +35,7 @@
   </a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/CodesBy.svg)](https://user-badge.committers.top/uzbekistan/CodesByUmar)
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/CodesByU.svg)](https://user-badge.committers.top/uzbekistan/CodesByUmar)
 
 <p align="center">
  <img width="1000" src=".github/.workflows/snake.svg" alt="snake"/>
