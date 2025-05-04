@@ -35,6 +35,8 @@
   </a>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/codesbyumar.svg)](https://user-badge.committers.top/uzbekistan/CodesByUmar)
+
 <p align="center">
  <img width="1000" src=".github/.workflows/snake.svg" alt="snake"/>
 </p>
