@@ -12,7 +12,7 @@
   </a>
 
 
-  <!-- LinkedIn by img.sh -->
+  <!-- LinkedIn by img.shi -->
   <a href="https://www.linkedin.com/in/muhammadumar-asatillayev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
