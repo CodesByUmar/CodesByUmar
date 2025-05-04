@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue?logo=visualstudiocode&logoColor=white" alt="Code Time" />
   </a>
 
-  <!-- Profile Views by--> 
+  <!-- Profile Views by i--> 
   <a href="#">
     <img src="https://img.shields.io/badge/Profile%20Views-1%2C902%2C224-blue" alt="Profile Views" />
   </a>
