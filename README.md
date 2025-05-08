@@ -5,7 +5,7 @@
 ---
 
 <hr/>
-<img align="center"
+<img align="r"
 ---
 
 <!-- Animation where typing my skills -->
