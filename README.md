@@ -4,7 +4,7 @@
 
 <hr/>
 
-<img align="right" src="https://camo.gith" >
+<img align="right" src="https://camo.github" >
 
 ---
 
