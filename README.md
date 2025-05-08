@@ -2,8 +2,6 @@
 
 <h3 align="center">🚀 Software Developer & Product Manager</h3>
 
----
-
 <hr/>
 <img align="right" src="https://camo.gi" >
 
