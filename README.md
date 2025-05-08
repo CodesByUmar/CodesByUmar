@@ -5,7 +5,8 @@
 ---
 
 <hr/>
-<img align="right" src="https://camo.g" >
+<img align="right" src="https://camo.gi" >
+
 ---
 
 <!-- Animation where typing my skills -->
