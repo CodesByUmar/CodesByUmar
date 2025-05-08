@@ -5,7 +5,7 @@
 ---
 
 <hr/>
-<img al
+<img ali
 ---
 
 <!-- Animation where typing my skills -->
