@@ -1,6 +1,6 @@
 <h1 align="center"> Hello I'm MuhammadUmar 👋 </h1>
 <h3 align="center">🚀 Software Developer & Product Manager</h3>
-<!-- -->
+<!--H -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PM+%7C+.NET+Enthusiast;Always+Learning+New+Tech"/>
 </p>
