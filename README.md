@@ -5,7 +5,7 @@
 ---
 
 <hr/>
-<img align="right" src="http" >
+<img align="right" src="https" >
 ---
 
 <!-- Animation where typing my skills -->
