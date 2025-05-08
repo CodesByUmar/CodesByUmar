@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Developer & Product Manager</h3>
 
 <hr/>
-<img align="right" src="https://camo.githubusercontent.com/2366b34bb903c" >
+<img align="right" src="https://camo.githubusercontent.com/2366b34bb903c0961" >
 
 <!-- Animation where typing my skills -->
 <p align="center">
