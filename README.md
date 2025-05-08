@@ -1,4 +1,4 @@
-<h1 align="center"> Hi th I'm MuhammadUmar 👋 </h1>
+<h1 align="center"> Hi t I'm MuhammadUmar 👋 </h1>
 <h3 align="center">🚀 Software Developer & Product Manager</h3>
 
 <p align="center">
