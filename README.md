@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
 
-<!--this is real fuckin' committer's ra-->
+<!--this is real fuckin' committer's ran-->
   <!-- Committers Top -->
   <a href="https://user-badge.committers.top/uzbekistan/CodesByUmar">
   <img src="https://user-badge.committers.top/uzbekistan/CodesByUmar.svg" alt="Committers Top" />
