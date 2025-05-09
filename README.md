@@ -31,7 +31,7 @@
 </a>
 
 
-  <!-- Code Time b-->
+  <!-- Code Time by-->
   <a href="#">
     <img src="https://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue?logo=visualstudiocode&logoColor=white" alt="Code Time" />
   </a>
