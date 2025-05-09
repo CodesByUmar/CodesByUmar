@@ -48,7 +48,7 @@
  <img width="1000" src=".github/.workflows/snake.svg" alt="snake"/>
 </p>
 
-<!-- Ab -->
+<!-- Abo -->
 ### 🚀 About Me
 
 Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET, Blazor, Web API, and MySQL. I'm always eager to learn new technologies and contribute to open-source projects.
