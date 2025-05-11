@@ -1,6 +1,6 @@
 <h1 align="center"> Hello I'm MuhammadUmar 👋 </h1>
 <!-- skasanmi kechasi qbqoyaman db jallab qbqoyw kere voxliro sasib yoturmasdan-->
-<!-- otirganimga kichkina korinyapmanm--> 
+<!-- otirganimga kichkina korinyapman--> 
 
 <h3 align="center">🚀 Software Developer & Product Manager</h3>
 
