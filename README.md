@@ -30,6 +30,10 @@
   <img src="https://user-badge.committers.top/uzbekistan/CodesByUmar.svg" alt="Committers Top" />
 </a>
 
+<a href="https://user-badge.committers.top/uzbekistan_public/CodesByUmar">
+  <img src="https://user-badge.committers.top/uzbekistan_public/CodesByUmar.svg" alt="Top Committer Badge">
+</a>
+
 
   <!-- Code Time by img.sh-->
   <a href="#">
