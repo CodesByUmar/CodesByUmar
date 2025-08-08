@@ -1,4 +1,4 @@
-<p>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c7185b3-ee7c-40b0-8236-c871ff605232" /><p>
 ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
  ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
  ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀
@@ -43,6 +43,9 @@
   <!-- Committers Top -->
   <a href="https://user-badge.committers.top/uzbekistan/CodesByUmar">
   <img src="https://user-badge.committers.top/uzbekistan/CodesByUmar.svg" alt="Committers Top" />
+</a>
+<a href="https://user-badge.committers.top/uzbekistan_private/CodesByUmar">
+  <img src="https://user-badge.committers.top/uzbekistan_private/CodesByUmar.svg" alt="committers.top badge">
 </a>
 
 <a href="https://user-badge.committers.top/uzbekistan_public/CodesByUmar">
