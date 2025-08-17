@@ -1,17 +1,3 @@
-<p>
-⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
- ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
- ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀
- ⠀⠀⢤⣀⣀⣀⠀⠀⢸⣷⡄⠀⣁⣀⣤⣴⣿⣿⣿⣆
- ⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀
- ⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀
- ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
- ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁
-</p>
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=MuhammadUmar&fontSize=60&fontColor=70a5fd&animation=fadeIn)
 
 <h3 align="center">🚀 Software Developer & Product Manager</h3>
@@ -33,14 +19,11 @@
     <img src="https://img.shields.io/github/followers/CodesByUmar?style=social" alt="GitHub Followers" />
   </a>
 
-
-  <!-- LinkedIn by img.shields.io -->
-  <a href="https://www.linkedin.com/in/muhammadumar-asatillayev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-
 <!--this is real fuckin' committer's rank-->
   <!-- Committers Top -->
+  <a href="https://user-badge.committers.top/uzbekistan_public/CodesByUmar">
+  <img src="https://user-badge.committers.top/uzbekistan_public/CodesByUmar.svg" alt="Top Committer Badge">
+</a>
   <a href="https://user-badge.committers.top/uzbekistan/CodesByUmar">
   <img src="https://user-badge.committers.top/uzbekistan/CodesByUmar.svg" alt="Committers Top" />
 </a>
@@ -48,21 +31,8 @@
   <img src="https://user-badge.committers.top/uzbekistan_private/CodesByUmar.svg" alt="committers.top badge">
 </a>
 
-<a href="https://user-badge.committers.top/uzbekistan_public/CodesByUmar">
-  <img src="https://user-badge.committers.top/uzbekistan_public/CodesByUmar.svg" alt="Top Committer Badge">
-</a>
 
 
-  <!-- Code Time by img.sh-->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Code%20Time-3%2C989%20hrs%2055%20mins-blue?logo=visualstudiocode&logoColor=white" alt="Code Time" />
-  </a>
-
-  <!-- Profile Views by i--> 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Profile%20Views-1%2C902%2C224-blue" alt="Profile Views" />
-  </a>
-</p>
 
 <!--[![committers.top badge](https://user-badge.committers.top/uzbekistan/CodesByUmar.svg)](https://user-badge.committers.top/uzbekistan/CodesByUmar)-->
 
@@ -206,13 +176,6 @@ Hello! I'm Muhammad Umar, a passionate Full Stack Developer specializing in .NET
 ### 🤝 Let's Collaborate!
 
 If you're interested in building impactful projects or just want to connect — I'm always open for collaboration! Let's innovate together 👨‍💻✨
-
----
-
-## 📍 Now
-- 🔨 Building: [Kingsman Clothing Store](https://github.com/CodesByUmar/Kingsman-Store)
-- 📘 Reading: *Clean Architecture* by Robert C. Martin
-- 🎯 Focus: Blazor + Product Management
 
 ---
  
