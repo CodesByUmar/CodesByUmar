@@ -32,12 +32,10 @@
 </a>
 
 -->
-<a href="https://org-badge.committers.top/austria_public/CodesByUmar">
-  <img
-    src="https://org-badge.committers.top/austria_public/CodesByUmar.svg"
-    alt="committers.top badge"
-  />
-</a>
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/codesbyumar.svg)](https://user-badge.committers.top/uzbekistan/codesbyumar)
+
+[![committers.top badge](https://org-badge.committers.top/uzbekistan/codesbyumar.svg)](https://org-badge.committers.top/uzbekistan/codesbyumar)
+
 
 
 <!--[![committers.top badge](https://user-badge.committers.top/uzbekistan/CodesByUmar.svg)](https://user-badge.committers.top/uzbekistan/CodesByUmar)-->
